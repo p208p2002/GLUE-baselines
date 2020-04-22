@@ -1,3 +1,9 @@
+# Download GLUE Dataset
+```
+git clone https://github.com/p208p2002/GLUE-baselines.git\
+&& cd GLUE-baselines\
+&& python download_glue_data.py --data_dir glue_data --tasks all
+```
 # GLUE Baselines
 This repo contains the code for baselines for the [Generalized Language Understanding Evaluation](https://gluebenchmark.com/) (GLUE) benchmark.
 See [our paper](https://openreview.net/pdf?id=rJ4km2R5t7) for more details about GLUE or the baselines.
