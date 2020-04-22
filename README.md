@@ -42,7 +42,6 @@ python download_glue_data.py --data_dir glue_data --tasks all --path_to_mrpc=par
 ```
 
 ### MRPC Download Links
-- https://www.microsoft.com/en-us/download/details.aspx?id=52398
 - http://178.128.89.37:12000/MRPC.zip
 
 ## Running
