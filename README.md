@@ -42,7 +42,7 @@ python download_glue_data.py --data_dir glue_data --tasks all --path_to_mrpc=par
 ```
 
 ### MRPC Download Links
-- http://178.128.89.37:12000/MRPC.zip
+- https://github.com/p208p2002/GLUE-baselines/releases/download/MRPC/MRPC.zip
 
 ## Running
 
